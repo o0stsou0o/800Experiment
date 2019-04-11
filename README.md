@@ -95,7 +95,7 @@ To be sorted by Jingyuan.
 
 ![](pictures/Connectivity_Graph_for_Stimuli_1.jpg)
 
-![](pictures/n01491361_13531_252.png)
+![](pictures/Connectivity_Graph_for_Stimuli_3.jpg)
 
 ============================
 
