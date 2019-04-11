@@ -11,6 +11,9 @@ This series of experiments has multiple purposes.
 
 ====================================
 
+![](pictures/n01491361_13531_252.png)
+
+
 Stage 1:  Scanning.
 May 14 and May 15 
 First, it scanned the 800 stimuli  at RF (1, -1) in Aim 2.1 design, i.e. stimuli was first presented in 2-degree aperture for 200 ms, 4-degree aperture for 200 ms, and then 12-degree aperture.  Each day, 5 blocks are tested, so we will need to combine data from the two days.  Hopefully the cells are the same, but we can check their tuning correlation. 
