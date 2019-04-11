@@ -93,6 +93,10 @@ ga2018_06_06_001.    Fam40.set, fam40.cnd.   60 repeats
 
 To be sorted by Jingyuan.
 
+![](pictures/n01491361_13531_252.png)
+
+![](pictures/n01491361_13531_252.png)
+
 ============================
 
 Stage 5: Checking position invariance of the familiar effect.
