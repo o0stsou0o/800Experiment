@@ -51,7 +51,7 @@ A a result, we have 8 days of training, actually 170B of training of the familia
 
 ![](pictures/testingNeuron24May302.png)
 
-![](pictures/n01491361_13531_252.png)
+![](pictures/testingNeuron24May291.png)
 
 
 ===================================================
