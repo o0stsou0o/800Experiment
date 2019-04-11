@@ -93,7 +93,7 @@ ga2018_06_06_001.    Fam40.set, fam40.cnd.   60 repeats
 
 To be sorted by Jingyuan.
 
-![](pictures/n01491361_13531_252.png)
+![](pictures/Connectivity_Graph_for_Stimuli_1.jpg)
 
 ![](pictures/n01491361_13531_252.png)
 
